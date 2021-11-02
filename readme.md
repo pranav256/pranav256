@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pranav</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pranav256&label=Profile%20views&color=0e75b6&style=flat" alt="pranav256" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pranav256" alt="pranav256" /></a> </p>
+<h3 align="center">  I am a self-taught frontend developer with a passion for
+  learning and problem-solving. I have a strong background in
+  web development and have worked on a wide range of projects</h3>
 
 - 🌱 I’m currently learning **React**
 
