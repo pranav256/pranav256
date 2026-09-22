@@ -1,39 +1,71 @@
-### 🤖: &nbsp;About Me
 
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Yep that's it.
 
-- 🔭 I’m Currently Studying and contributing to frontend and backend for building web applications.
-- 🌱 Exploring Backend
+<table>
+  <tr>
+    <td width="50%">
+      <h3>📰 <a href="https://github.com/pranav256/news-api">News API</a></h3>
+      A free global news API with automated updates every two hours using GitHub Actions. No API keys or backend servers required.
+      <br/><br/>
+      <code>Python</code> <code>GitHub Actions</code>
+    </td>
+    <td width="50%">
+      <h3>🎬 <a href="https://github.com/pranav256/Hooky">Hooky</a></h3>
+      An AI-powered video clipper that finds engaging moments in long-form videos and podcasts to create short-form content.
+      <br/><br/>
+      <code>Python</code> <code>Gemini AI</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>🌐 <a href="https://github.com/pranav256/avdanos-website">Avdan OS Website</a></h3>
+      A web project for Avdan OS.
+      <br/><br/>
+      <code>TypeScript</code>
+    </td>
+    <td width="50%">
+      <h3>🔭 More projects</h3>
+      Explore my repositories for more experiments, tools, and things I'm building.
+      <br/><br/>
+      <a href="https://github.com/pranav256?tab=repositories">Browse all repositories →</a>
+    </td>
+  </tr>
+</table>
+
 ---
 
-### 🛠 &nbsp;Languages and Tools
+### 🛠️ Languages & Technologies
+
+**Languages**
 
 <p>
+  <img src="https://skillicons.dev/icons?i=python,rust,java,javascript,typescript,html,css,bash" />
+</p>
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="html" alt="html" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="Tailwindcss" alt="Tailwindcss" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="nextjs" alt="nextjs" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
+**Frameworks & Libraries**
 
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,materialui" />
+</p>
+
+**Tools & Platforms**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode" />
 </p>
 
 ---
 
-### 🔥 &nbsp; My Stats
+### 📊 GitHub
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=pranav256&theme=dark&background=000000&&count_private=true)](https://git.io/streak-stats)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=pranav256&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pranav256&layout=compact&theme=vision-friendly-dark&exclude_repo=config)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <a href="https://github.com/pranav256">
+    <img src="https://img.shields.io/badge/GitHub-pranav256-181717?style=for-the-badge&logo=github" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=pranav256&style=for-the-badge&color=blueviolet" alt="Profile views" />
+</p>
 
 ---
-
