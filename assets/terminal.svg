@@ -1,0 +1,79 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 840 224" width="100%" height="224">
+  <defs>
+    <style>
+      .terminal-bg { fill: #0d1117; stroke: #30363d; stroke-width: 1; }
+      .bar { fill: #161b22; }
+      .title { fill: #8b949e; font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, monospace; font-size: 11.5px; font-weight: 500; letter-spacing: 0.5px; }
+      .prompt { fill: #7d8590; font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, monospace; font-size: 13px; }
+      .cmd { fill: #58a6ff; font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, monospace; font-size: 13px; font-weight: 600; }
+      .text-hero { fill: #f0f6fc; font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, monospace; font-size: 14px; font-weight: 600; }
+      .text-sub { fill: #8b949e; font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, monospace; font-size: 12px; }
+      .key { fill: #7d8590; font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, monospace; font-size: 11.5px; font-weight: 600; letter-spacing: 0.5px; }
+      .val { fill: #e6edf3; font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, monospace; font-size: 12px; font-weight: 500; }
+      .accent { fill: #3fb950; font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, monospace; font-size: 11px; font-weight: 500; }
+      .divider { stroke: #21262d; stroke-width: 1; }
+      
+      @media (prefers-color-scheme: light) {
+        .terminal-bg { fill: #ffffff; stroke: #d0d7de; }
+        .bar { fill: #f6f8fa; }
+        .title { fill: #57606a; }
+        .prompt { fill: #57606a; }
+        .cmd { fill: #0969da; }
+        .text-hero { fill: #1f2328; }
+        .text-sub { fill: #656d76; }
+        .key { fill: #656d76; }
+        .val { fill: #1f2328; }
+        .accent { fill: #1a7f37; }
+        .divider { stroke: #d0d7de; }
+      }
+    </style>
+  </defs>
+
+  <!-- Container Box with Hairline Border -->
+  <rect x="0.5" y="0.5" width="839" height="223" rx="8" class="terminal-bg" />
+
+  <!-- Top Title Bar -->
+  <path d="M 0.5 8.5 Q 0.5 0.5 8.5 0.5 L 831.5 0.5 Q 839.5 0.5 839.5 8.5 L 839.5 34 L 0.5 34 Z" class="bar" />
+  <line x1="0" y1="34" x2="840" y2="34" class="divider" />
+
+  <!-- Window Header Dots (Subtle Unix Muted Slate) -->
+  <circle cx="22" cy="17" r="4.5" fill="#484f58" />
+  <circle cx="38" cy="17" r="4.5" fill="#30363d" />
+  <circle cx="54" cy="17" r="4.5" fill="#30363d" />
+
+  <!-- Window Header Title -->
+  <text x="420" y="21" text-anchor="middle" class="title">pranav256 // workstation telemetry</text>
+
+  <!-- Live Status Pill -->
+  <circle cx="762" cy="17" r="3.5" fill="#3fb950" />
+  <text x="772" y="21" class="accent">sys::active</text>
+
+  <!-- Primary Prompt & Bio -->
+  <text x="28" y="65" class="prompt">pranav@void-station ~ % <tspan class="cmd">whoami</tspan></text>
+  <text x="28" y="87" class="text-hero">Pranav <tspan class="text-sub">· Systems &amp; Software Engineer</tspan></text>
+  <text x="28" y="108" class="text-sub">Building autonomous media pipelines, local-first cryptography &amp; zero-server data engines.</text>
+
+  <!-- Section Divider -->
+  <line x1="28" y1="126" x2="812" y2="126" class="divider" />
+
+  <!-- Row 1: OS and Shell -->
+  <text x="28" y="152" class="key">OS</text>
+  <text x="96" y="152" class="val">Void Linux (runit) · Artix · Arch</text>
+
+  <text x="430" y="152" class="key">SHELL</text>
+  <text x="496" y="152" class="val">Fish · Alacritty · Neovim</text>
+
+  <!-- Row 2: Stack and GPG -->
+  <text x="28" y="178" class="key">STACK</text>
+  <text x="96" y="178" class="val">Python · Rust · TypeScript · Shell · C</text>
+
+  <text x="430" y="178" class="key">GPG KEY</text>
+  <text x="496" y="178" class="val">42F6FCD9470F9BED <tspan class="text-sub">(ED25519)</tspan></text>
+
+  <!-- Row 3: Focus and Status -->
+  <text x="28" y="204" class="key">FOCUS</text>
+  <text x="96" y="204" class="val">Autonomous Video Pipelines · Applied Crypto · Low-Overhead Daemons</text>
+
+  <text x="430" y="204" class="key">STATUS</text>
+  <text x="496" y="204" class="val">Open-source software &amp; experiments</text>
+</svg>
