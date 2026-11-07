@@ -2,7 +2,11 @@
   <img src="https://raw.githubusercontent.com/pranav256/pranav256/main/assets/terminal.svg" alt="Pranav — Workstation Telemetry" width="100%" />
 </div>
 
-<br/>
+<p align="center">
+  <a href="https://github.com/yalongwastaken/git-koi">
+    <img src="koi/koi.gif" width="220" alt="Activity Koi — Pixel-art koi drawn from GitHub activity" />
+  </a>
+</p>
 
 ### Featured Systems & Architecture
 
