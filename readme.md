@@ -1,68 +1,128 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/pranav256/pranav256/main/assets/terminal.svg" alt="Pranav — Workstation Telemetry" width="100%" />
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&pause=1200&color=2F81F7&center=true&vCenter=true&width=620&lines=Hi%2C+I'm+Pranav+%F0%9F%91%8B;Systems+%26+Software+Engineer;Autonomous+media+pipelines;Local-first+cryptography;Zero-server+data+engines" alt="Typing SVG" />
+
+<br/>
+
+*Building software that runs lean and doesn't phone home.*
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=pranav256&style=flat-square&color=2f81f7&label=Profile+Views)
+[![GitHub followers](https://img.shields.io/github/followers/pranav256?style=flat-square&color=2f81f7&label=Followers)](https://github.com/pranav256?tab=followers)
+[![GitHub Stars](https://img.shields.io/github/stars/pranav256?style=flat-square&color=2f81f7&label=Stars+Earned)](https://github.com/pranav256)
+
 </div>
 
-<p align="center">
-  <a href="https://github.com/yalongwastaken/git-koi">
-    <img src="koi/koi.gif" width="220" alt="Activity Koi — Pixel-art koi drawn from GitHub activity" />
-  </a>
-</p>
+---
 
-### Featured Systems & Architecture
+## About
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/pranav256/Hooky"><b>Hooky</b></a> &nbsp;<code>Python</code> <code>Multimodal AI</code>
-      <p>AI-assisted video clipper for vertical 9:16 shorts. Transcribes audio with Faster-Whisper, detects highlights with Gemini, and renders animated subtitles via FFmpeg.</p>
-      <small><code>FastAPI</code> · <code>Faster-Whisper</code> · <code>Gemini Pro</code> · <code>OpenCV</code></small>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/pranav256/Password-Manager"><b>Password Manager</b></a> &nbsp;<code>Rust</code> <code>Applied Cryptography</code>
-      <p>Encrypted desktop password vault written in Rust. Uses Argon2id key derivation and AES-256-GCM authenticated encryption with a native egui GUI.</p>
-      <small><code>Rust</code> · <code>Argon2id</code> · <code>AES-256-GCM</code> · <code>egui</code></small>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/pranav256/news-api"><b>News API</b></a> &nbsp;<code>Python</code> <code>Data Architecture</code>
-      <p>Automated news aggregator refreshed every 2 hours via GitHub Actions. Ingests, normalizes, and serves static JSON feeds with open CORS.</p>
-      <small><code>Python</code> · <code>GitHub Actions</code> · <code>jsDelivr CDN</code> · <code>Edge Cache</code></small>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/pranav256/config"><b>Dotfiles & Workstation</b></a> &nbsp;<code>Shell</code> <code>Unix Systems</code>
-      <p>Workstation configuration for Void Linux, Artix, and Arch. Centered on Neovim with Lua config, Fish shell, Alacritty, and Pywal color theming.</p>
-      <small><code>Void Linux</code> · <code>runit</code> · <code>Neovim</code> · <code>Fish</code> · <code>Alacritty</code></small>
-    </td>
-  </tr>
-</table>
+My work sits at the intersection of **media automation**, **applied cryptography**, and **zero-dependency data systems**.
+
+- **Autonomous AI pipelines** — turning raw video & podcasts into viral clips with Gemini AI + FFmpeg
+- **Local-first security** — Argon2id, AES-256-GCM, Ed25519 · no cloud, no telemetry
+- **Serverless data delivery** — GitHub Actions as a backend, open CORS, zero infrastructure cost
+- **Open source contributor** — NASA OpenMCT, Avdan OS, Better Auth
+
+```sh
+$ uname -a
+Void Linux · runit init · Neovim (Lua) · Fish shell · Alacritty · Tmux
+```
+
+---
+
+## Tech Stack
+
+<div align="center">
+
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=python,rust,ts,js,go,java,bash&theme=light" />
+
+**AI & Media**
+
+<img src="https://skillicons.dev/icons?i=opencv&theme=light" />
+&nbsp;
+![Gemini](https://img.shields.io/badge/Gemini_API-4285F4?style=flat-square&logo=google&logoColor=white)
+![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=white)
+![Whisper](https://img.shields.io/badge/Faster_Whisper-412991?style=flat-square&logo=openai&logoColor=white)
+![yt-dlp](https://img.shields.io/badge/yt--dlp-FF0000?style=flat-square&logo=youtube&logoColor=white)
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,html,css&theme=light" />
+
+**Tools & Infra**
+
+<img src="https://skillicons.dev/icons?i=linux,neovim,docker,git,github,githubactions&theme=light" />
+
+</div>
+
+---
+
+## Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| [**news-api**](https://github.com/pranav256/news-api) | Free, no-key global news JSON — refreshed every 2h via GitHub Actions. Zero servers, open CORS. | Python · GH Actions |
+| [**Hooky-engine**](https://github.com/pranav256/Hooky-engine) | Autonomous AI video clipper. Turns long YouTube videos into viral 9:16 Shorts, Reels & TikToks using Gemini AI highlight detection. | Python · Gemini · FFmpeg |
+| [**RustyVault**](https://github.com/pranav256/RustyVault) | Encrypted desktop password manager. Argon2id key derivation + AES-256-GCM authenticated encryption. Zero network. | Rust · egui |
+| [**eidova-mcp**](https://github.com/pranav256/eidova-mcp) | Independent open-source MCP design tools with editable guidance and a local React component registry. | HTML · TypeScript |
+| [**news-api-web**](https://github.com/pranav256/news-api-web) | Editorial broadsheet live news reader and API documentation portal built on Next.js + Vercel. | Next.js · TypeScript |
+| [**config**](https://github.com/pranav256/config) | Dotfiles. Neovim (Lua), Fish shell, Alacritty, Tmux — tuned for Void Linux with `runit`. | Shell |
+
+---
+
+## Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=pranav256&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" height="165" alt="GitHub Stats" />
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranav256&layout=compact&theme=default&hide_border=true&langs_count=8" height="165" alt="Top Languages" />
 
 <br/>
 
-### Engineering Stack
-
-| Domain | Technologies & Tooling |
-| :--- | :--- |
-| **Languages** | Python, Rust, TypeScript, JavaScript, Shell (Bash / Fish), C, SQL |
-| **Systems & Linux** | Void Linux (runit init), Arch Linux, Artix Linux, Docker, Linux Kernel Tuning |
-| **Media & Multimodal AI** | Faster-Whisper (local STT), Google Gemini API, OpenCV (Haar Cascades, Video Processing), FFmpeg |
-| **Security & Cryptography** | Argon2id (memory-hard KDF), AES-256-GCM (authenticated encryption), PGP / GPG (`42F6FCD9470F9BED`) |
-| **Frontend & Web** | React, Next.js, TypeScript, Tailwind CSS, Broadsheet Reader Engines |
-| **Developer Environment** | Neovim (Lua), Alacritty, Fish Shell, Tmux, Git, Pywal |
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=pranav256&theme=default&hide_border=true&date_format=j%20M%5B%20Y%5D&ring=2f81f7&fire=2f81f7&currStreakLabel=2f81f7" alt="GitHub Streak Stats" />
 
 <br/>
 
-### Open-Source Tools & Experiments
-
-- [**news-react**](https://github.com/pranav256/news-react) & [**news-api-web**](https://github.com/pranav256/news-api-web): Broadsheet editorial reader and interactive developer documentation portal for the News API data engine.
-- [**Octane-Browser**](https://github.com/pranav256/Octane-Browser): Custom lightweight desktop web browser built in Python and Qt.
-- [**Car-and-Pedestrian-Detector**](https://github.com/pranav256/Car-and-Pedestrian-Detector): Real-time road object classifier using OpenCV Haar cascades.
-- [**Space-Duel**](https://github.com/pranav256/Space-Duel): 2D arcade physics combat game built in Python and Pygame.
+<img src="https://github-profile-trophy.vercel.app/?username=pranav256&theme=flat&no-frame=true&row=1&column=7&margin-w=4" alt="GitHub Trophies" />
 
 <br/>
 
-### Identity & Verification
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=pranav256&theme=github-compact&hide_border=true&area=true&color=2f81f7&line=2f81f7&point=2f81f7" alt="Contribution Graph" />
 
-- **GitHub:** [@pranav256](https://github.com/pranav256)
-- **PGP Fingerprint:** [`42F6FCD9470F9BED`](https://github.com/pranav256.gpg) `(ED25519 · Verified)`
-- **Email:** `pranav628@proton.me`
+</div>
+
+---
+
+## Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pranav256/pranav256/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pranav256/pranav256/output/github-contribution-grid-snake.svg" />
+    <img alt="Contribution Snake" src="https://raw.githubusercontent.com/pranav256/pranav256/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
+
+> [!NOTE]
+> Snake requires a one-time GitHub Action setup — see instructions below.
+
+---
+
+## Contact
+
+| | |
+|---|---|
+| **Email** | [pranav628@proton.me](mailto:pranav628@proton.me) |
+| **PGP** | [`42F6 FCD9 470F 9BED`](https://github.com/pranav256.gpg) · Ed25519 · verified |
+| **GitHub** | [@pranav256](https://github.com/pranav256) |
+
+---
+
+<div align="center">
+<sub>Writing lean software since 2021 &nbsp;·&nbsp; 450 contributions in 2026 &nbsp;·&nbsp; 53 public repos</sub>
+</div>
