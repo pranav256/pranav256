@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&pause=1200&color=2F81F7&center=true&vCenter=true&width=620&lines=Hi%2C+I'm+Pranav+%F0%9F%91%8B;Systems+%26+Software+Engineer;Autonomous+media+pipelines;Local-first+cryptography;Zero-server+data+engines" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&pause=1200&color=FE428E&center=true&vCenter=true&width=620&lines=Hi%2C+I'm+Pranav+%F0%9F%91%8B;Systems+%26+Software+Engineer;Autonomous+media+pipelines;Local-first+cryptography;Zero-server+data+engines" alt="Typing SVG" />
 
 <br/>
 
@@ -8,9 +8,9 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=pranav256&style=flat-square&color=2f81f7&label=Profile+Views)
-[![GitHub followers](https://img.shields.io/github/followers/pranav256?style=flat-square&color=2f81f7&label=Followers)](https://github.com/pranav256?tab=followers)
-[![GitHub Stars](https://img.shields.io/github/stars/pranav256?style=flat-square&color=2f81f7&label=Stars+Earned)](https://github.com/pranav256)
+![Profile Views](https://komarev.com/ghpvc/?username=pranav256&style=flat-square&color=fe428e&label=Profile+Views)
+[![GitHub followers](https://img.shields.io/github/followers/pranav256?style=flat-square&color=fe428e&label=Followers)](https://github.com/pranav256?tab=followers)
+[![GitHub Stars](https://img.shields.io/github/stars/pranav256?style=flat-square&color=fe428e&label=Stars+Earned)](https://github.com/pranav256)
 
 </div>
 
@@ -38,11 +38,11 @@ Void Linux · runit init · Neovim (Lua) · Fish shell · Alacritty · Tmux
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=python,rust,ts,js,go,java,bash&theme=light" />
+<img src="https://skillicons.dev/icons?i=python,rust,ts,js,go,java,bash&theme=dark" />
 
 **AI & Media**
 
-<img src="https://skillicons.dev/icons?i=opencv&theme=light" />
+<img src="https://skillicons.dev/icons?i=opencv&theme=dark" />
 &nbsp;
 <img src="https://img.shields.io/badge/Gemini_API-4285F4?style=flat-square&logo=google&logoColor=white" alt="Gemini API" />
 <img src="https://img.shields.io/badge/FFmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=white" alt="FFmpeg" />
@@ -51,11 +51,11 @@ Void Linux · runit init · Neovim (Lua) · Fish shell · Alacritty · Tmux
 
 **Frontend**
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,html,css&theme=light" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,html,css&theme=dark" />
 
 **Tools & Infra**
 
-<img src="https://skillicons.dev/icons?i=linux,neovim,docker,git,github,githubactions&theme=light" />
+<img src="https://skillicons.dev/icons?i=linux,neovim,docker,git,github,githubactions&theme=dark" />
 
 </div>
 
@@ -78,17 +78,13 @@ Void Linux · runit init · Neovim (Lua) · Fish shell · Alacritty · Tmux
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=pranav256&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" height="165" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=pranav256&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" height="165" alt="GitHub Stats" />
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranav256&layout=compact&theme=default&hide_border=true&langs_count=8" height="165" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranav256&layout=compact&theme=radical&hide_border=true&langs_count=8" height="165" alt="Top Languages" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=pranav256&theme=default&hide_border=true&date_format=j%20M%5B%20Y%5D&ring=2f81f7&fire=2f81f7&currStreakLabel=2f81f7" alt="GitHub Streak Stats" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=pranav256&theme=github-compact&hide_border=true&area=true&color=2f81f7&line=2f81f7&point=2f81f7" alt="Contribution Graph" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=pranav256&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak Stats" />
 
 </div>
 
@@ -103,9 +99,6 @@ Void Linux · runit init · Neovim (Lua) · Fish shell · Alacritty · Tmux
     <img alt="Contribution Snake" src="https://raw.githubusercontent.com/pranav256/pranav256/output/github-contribution-grid-snake.svg" />
   </picture>
 </div>
-
-> [!NOTE]
-> Snake requires a one-time GitHub Action setup — see instructions below.
 
 ---
 
