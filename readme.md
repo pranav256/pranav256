@@ -44,10 +44,10 @@ Void Linux · runit init · Neovim (Lua) · Fish shell · Alacritty · Tmux
 
 <img src="https://skillicons.dev/icons?i=opencv&theme=light" />
 &nbsp;
-![Gemini](https://img.shields.io/badge/Gemini_API-4285F4?style=flat-square&logo=google&logoColor=white)
-![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=white)
-![Whisper](https://img.shields.io/badge/Faster_Whisper-412991?style=flat-square&logo=openai&logoColor=white)
-![yt-dlp](https://img.shields.io/badge/yt--dlp-FF0000?style=flat-square&logo=youtube&logoColor=white)
+<img src="https://img.shields.io/badge/Gemini_API-4285F4?style=flat-square&logo=google&logoColor=white" alt="Gemini API" />
+<img src="https://img.shields.io/badge/FFmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=white" alt="FFmpeg" />
+<img src="https://img.shields.io/badge/Faster_Whisper-412991?style=flat-square&logo=openai&logoColor=white" alt="Faster Whisper" />
+<img src="https://img.shields.io/badge/yt--dlp-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="yt-dlp" />
 
 **Frontend**
 
@@ -85,10 +85,6 @@ Void Linux · runit init · Neovim (Lua) · Fish shell · Alacritty · Tmux
 <br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=pranav256&theme=default&hide_border=true&date_format=j%20M%5B%20Y%5D&ring=2f81f7&fire=2f81f7&currStreakLabel=2f81f7" alt="GitHub Streak Stats" />
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=pranav256&theme=flat&no-frame=true&row=1&column=7&margin-w=4" alt="GitHub Trophies" />
 
 <br/>
 
