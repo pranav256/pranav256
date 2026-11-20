@@ -11,6 +11,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=pranav256&style=flat-square&color=fe428e&label=Profile+Views)
 [![GitHub followers](https://img.shields.io/github/followers/pranav256?style=flat-square&color=fe428e&label=Followers)](https://github.com/pranav256?tab=followers)
 [![GitHub Stars](https://img.shields.io/github/stars/pranav256?style=flat-square&color=fe428e&label=Stars+Earned)](https://github.com/pranav256)
+[![Portfolio](https://img.shields.io/badge/Portfolio-pranav256.vercel.app-fe428e?style=flat-square&logo=vercel&logoColor=white)](https://pranav256.vercel.app)
 
 </div>
 
@@ -24,6 +25,7 @@ My work sits at the intersection of **media automation**, **applied cryptography
 - **Local-first security** — Argon2id, AES-256-GCM, Ed25519 · no cloud, no telemetry
 - **Serverless data delivery** — GitHub Actions as a backend, open CORS, zero infrastructure cost
 - **Open source contributor** — NASA OpenMCT, Avdan OS, Better Auth
+- **Live Portfolio** — [pranav256.vercel.app](https://pranav256.vercel.app)
 
 ```sh
 $ uname -a
@@ -106,6 +108,7 @@ Void Linux · runit init · Neovim (Lua) · Fish shell · Alacritty · Tmux
 
 | | |
 |---|---|
+| **Portfolio** | [pranav256.vercel.app](https://pranav256.vercel.app) |
 | **Email** | [pranav628@proton.me](mailto:pranav628@proton.me) |
 | **PGP** | [`42F6 FCD9 470F 9BED`](https://github.com/pranav256.gpg) · Ed25519 · verified |
 | **GitHub** | [@pranav256](https://github.com/pranav256) |
